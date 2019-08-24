@@ -1,2 +1,2 @@
 # Trip-Planner
-A short Java project
+A short trip planner, calculating expenses as well as time spent at the destination
